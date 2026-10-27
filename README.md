@@ -137,4 +137,4 @@ Truy cập `http://localhost:4280`.
 ---
 
 ## 🔒 Bản quyền & Giấy phép
-© 2026 Nefab Group. Hệ thống sáng kiến Kaizen nhà máy.
+© 2026 Nefab Việt Nam. Hệ thống sáng kiến Kaizen nhà máy.
